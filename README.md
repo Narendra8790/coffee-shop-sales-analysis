@@ -4,17 +4,16 @@
 
 ## 📘 Project Overview
 
-This project provides a **comprehensive Excel-based business analysis** of a multi-location coffee chain.  
-The dataset includes daily transactions with attributes like order date, product, category, quantity, sales amount, and store location.
+The **Coffee Shop Sales Analysis Project** is an end-to-end data analytics solution built entirely in **Microsoft Excel**.  
+It leverages real-world transactional data to evaluate sales trends, customer footfall, product performance, and store efficiency across different locations.
 
-Using only **Microsoft Excel**, this analysis delivers:
-- **Automated data cleaning** with *Power Query (Get & Transform)*  
-- **KPI dashboards** built with *PivotTables, PivotCharts, and Slicers*  
-- **Interactive filtering** by month, store, and product category  
-- **Executive insights** for improving business operations  
+Using Excel’s advanced analytics features, the project focuses on:
+- Automated **data cleaning and transformation** via *Power Query*  
+- **Dynamic KPI dashboards** using *PivotTables* and *Slicers*  
+- **Interactive reporting** for decision-making and performance tracking  
+- Actionable insights into **staffing, marketing, and inventory management**
 
 ---
-
 ## 🎯 Objectives
 
 - Analyze **sales, orders, and customer patterns** using Excel tools.  
@@ -96,8 +95,10 @@ Hell’s Kitchen leads in both footfall and average bill; Astoria follows closel
 | **Conditional Formatting**       | Highlighting insights           |
 | **VBA (optional)**               | Dashboard export automation     |
 
+
 ## 📦 Repository Structure
 
+```plaintext
 coffee-shop-sales-analysis/
 │
 ├── data/
@@ -117,17 +118,23 @@ coffee-shop-sales-analysis/
 │
 ├── README.md
 └── LICENSE
+````
+
+---
 
 ## 🧾 Business Recommendations
 
-| Area                   | Recommendation                                               |
-| ---------------------- | ------------------------------------------------------------ |
-| **Staffing**           | Increase workforce during 8–11 AM peak hours                 |
-| **Inventory**          | Stock up on top-selling products (Espresso, Latte, Chai Tea) |
-| **Marketing**          | Run mid-day offers to increase off-peak sales                |
-| **Menu Strategy**      | Promote high-margin bakery items                             |
-| **Store Optimization** | Expand Hell’s Kitchen model to other locations               |
+| Area                   | Recommendation                                                         |
+| ---------------------- | ---------------------------------------------------------------------- |
+| **Staffing**           | Increase workforce during **8–11 AM** to manage high demand.           |
+| **Inventory**          | Stock more *Espresso*, *Latte*, and *Chai Tea* — top-selling products. |
+| **Marketing**          | Introduce **mid-day combo offers** to boost off-peak hours (2–5 PM).   |
+| **Menu Strategy**      | Focus on **high-margin bakery items** to improve profitability.        |
+| **Store Optimization** | Replicate **Hell’s Kitchen** model across underperforming outlets.     |
+
+---
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
+```
